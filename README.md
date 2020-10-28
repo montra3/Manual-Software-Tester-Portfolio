@@ -12,18 +12,18 @@ I'm focusing on develop documentation, testing scenarios, bug reports creating a
 <h2>Tech skills</h2>
 
 MySQL,
-Creating Test scenarios,
-Creating Test cases,
-Creating Test reports,
-Creating Bug reports,
-ISTQB - in progress...
+Creating Test scenarios  <br/>
+Creating Test cases  <br/>
+Creating Test reports  <br/>
+Creating Bug reports  <br/>
+ISTQB - in progress...  <br/>
 
 
 <h2>Tools</h2>
 
-JIRA, qTest - Software development tools for project management,
-Screencast, Jing - screen capture tools (photo and video),
-Charles Web Debugging Proxy - Software to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet,
-Github
+JIRA, qTest - Software development tools for project management  <br/>
+Screencast, Jing - screen capture tools (photo and video)  <br/>
+Charles Web Debugging Proxy - Software to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet  <br/>
+Github  <br/>
 
 
