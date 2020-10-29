@@ -11,7 +11,7 @@ I'm focusing on develop documentation, testing scenarios, bug reports creating a
 
 <h2>Tech skills</h2>
 
-MySQL,
+<li><span style="color: green">MySQL</span></li> <br/>
 Creating Test scenarios  <br/>
 Creating Test cases  <br/>
 Creating Test reports  <br/>
