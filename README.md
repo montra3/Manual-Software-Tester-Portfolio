@@ -21,7 +21,15 @@ I'm focusing on develop documentation, testing scenarios, bug reports creating a
 
 <h2>Tools</h2>
 
-<li><span style><b>JIRA, qTest</b> - Software development tools for project management</span></li>  <br/>
+<li>
+  <span style>
+    <b>
+      <a href="https://www.atlassian.com/pl/software/jira">JIRA,</a> 
+      <a href="https://marketplace.atlassian.com/apps/1211480/qtest-for-jira-test-management?hosting=cloud&tab=overview">qTest</a>
+    </b> - Software development tools for project management
+  </span>
+</li>  
+<br/>
 Screencast, Jing - screen capture tools (photo and video)  <br/>
 Charles Web Debugging Proxy - Software to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet  <br/>
 Github  <br/>
