@@ -11,25 +11,34 @@ I'm focusing on develop documentation, testing scenarios, bug reports creating a
 
 <h2>Tech skills</h2>
 
-<li><span style>MySQL</span></li> <br/>
-<li><span style>Creating Test scenarios</span></li>  <br/>
-<li><span style>Creating Test cases</span></li>  <br/>
-<li><span style>Creating Test reports</span></li>  <br/>
-<li><span style>Creating Bug reports</span></li>  <br/>
-<li><span style>ISTQB - in progress...</span></li>  <br/>
+<li><span style>MySQL
+  </span></li> <br/>
+
+<li><span style>Creating Test scenarios
+  </span></li> <br/>
+
+<li><span style>Creating Test cases
+  </span></li> <br/>
+
+<li><span style>Creating Test reports
+  </span></li> <br/>
+
+<li><span style>Creating Bug report
+  </span></li> <br/>
+
+<li><span style>ISTQB - in progress...
+  </span></li>  <br/>
 
 
 <h2>Tools</h2>
 
 <li>
-  <span style>
-    <b>
+  <span style><b>
       <a href="https://www.atlassian.com/pl/software/jira">JIRA,</a> 
       <a href="https://marketplace.atlassian.com/apps/1211480/qtest-for-jira-test-management?hosting=cloud&tab=overview">qTest</a>
     </b> - Software development tools for project management
-  </span>
-</li>  
-<br/>
+  </span></li> <br/>
+
 Screencast, Jing - screen capture tools (photo and video)  <br/>
 Charles Web Debugging Proxy - Software to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet  <br/>
 Github  <br/>
