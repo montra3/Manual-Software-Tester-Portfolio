@@ -27,7 +27,7 @@ I'm focusing on develop documentation, testing scenarios, bug reports creating a
   </span></li> <br/>
 
 <li><span style>ISTQB - in progress...
-  </span></li>  <br/>
+  </span></li> <br/>
 
 
 <h2>Tools</h2>
@@ -61,13 +61,19 @@ I'm focusing on develop documentation, testing scenarios, bug reports creating a
   
  <h2>My Individual Projects</h2>
  
-<li><span style><b>Exploratory Test of the Website abastra.com</b></span>
-</li>
+<li>
+  <b>
+    Exploratory Test of the Website abastra.com
+  </b>
+</li> <br/>
         <ul>
-             <li><span style><b><a href="https://docs.google.com/spreadsheets/d/1gqdE1EaQb1KXTxgxoXOB8zVkxpBjjpiP/edit#gid=1276846784">Test Scenario</b></a></li>
-             <li><span style><b><a href="https://docs.google.com/spreadsheets/d/1YWj-KOR7EMsu_wu0CHcVDrqelyumL9hG/edit#gid=895458969">Test Case</b></a></li>
-             <li><span style><b><a href="https://docs.google.com/spreadsheets/d/1FOTvcLlw0_kdAW1215SDQaTSYXVjhULc/edit#gid=374608489">Bug Report</b></a></span></li>
-             </ul><br/>
+             <li><span style><b><a href="https://docs.google.com/spreadsheets/d/1gqdE1EaQb1KXTxgxoXOB8zVkxpBjjpiP/edit#gid=1276846784">Test Scenario</b></a>
+               </li> <br/>
+             <li><span style><b><a href="https://docs.google.com/spreadsheets/d/1YWj-KOR7EMsu_wu0CHcVDrqelyumL9hG/edit#gid=895458969">Test Case</b></a>
+               </li> <br/>
+             <li><span style><b><a href="https://docs.google.com/spreadsheets/d/1FOTvcLlw0_kdAW1215SDQaTSYXVjhULc/edit#gid=374608489">Bug Report</b></a></span>
+               </li> <br/>
+             </ul> 
                                 
 <h2>Courses</h2>
 
