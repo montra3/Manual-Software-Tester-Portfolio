@@ -59,16 +59,19 @@ I'm focusing on develop documentation, testing scenarios, bug reports creating a
   </span></li> <br/>
   
   
- <h2>My Projects</h2>
+ <h2>My Individual Projects</h2>
  
- <li><span style><b>Individual Projects</b></li>
+ <ul>
   <li><span style>Exploratory Test of the Website abastra.com</span></li>
-                    <li><span style><b><a href="https://docs.google.com/spreadsheets/d/1gqdE1EaQb1KXTxgxoXOB8zVkxpBjjpiP/edit#gid=1276846784">Test Scenario</b></a></li>
-                    <li><span style><b><a href="https://docs.google.com/spreadsheets/d/1YWj-KOR7EMsu_wu0CHcVDrqelyumL9hG/edit#gid=895458969">Test Case</b></a></li>
-                    <li><span style><b><a href="https://docs.google.com/spreadsheets/d/1FOTvcLlw0_kdAW1215SDQaTSYXVjhULc/edit#gid=374608489">Bug Report</b></a>
-                      </span></li> <br/>
-                
-  
+  </ul>
+        <ul>
+             <li><span style><b><a href="https://docs.google.com/spreadsheets/d/1gqdE1EaQb1KXTxgxoXOB8zVkxpBjjpiP/edit#gid=1276846784">Test Scenario</b></a></li>
+             <li><span style><b><a href="https://docs.google.com/spreadsheets/d/1YWj-KOR7EMsu_wu0CHcVDrqelyumL9hG/edit#gid=895458969">Test Case</b></a></li>
+             <li><span style><b><a href="https://docs.google.com/spreadsheets/d/1FOTvcLlw0_kdAW1215SDQaTSYXVjhULc/edit#gid=374608489">Bug Report</b></a></span></li>
+  </ul>
+  </li>
+                      
+                 
 <h2>Courses</h2>
 
 <li>
