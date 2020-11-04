@@ -61,9 +61,9 @@ I'm focusing on develop documentation, testing scenarios, bug reports creating a
   
  <h2>My Individual Projects</h2>
  
-  <b>
-    Exploratory Test of the Website abastra.com
-  </b> <br/>
+  <b>Exploratory Test of the Website abastra.com
+  </b> 
+  <br/>
         <ul>
              <li><span style><b><a href="https://docs.google.com/spreadsheets/d/1gqdE1EaQb1KXTxgxoXOB8zVkxpBjjpiP/edit#gid=1276846784">Test Scenario</b></a>
                </li> <br/>
