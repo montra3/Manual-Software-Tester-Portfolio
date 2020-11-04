@@ -93,6 +93,7 @@ I'm focusing on develop documentation, testing scenarios, bug reports creating a
 <li>
   <span style>
     <a href="https://strefakursow.pl/kursy/programowanie/kurs_jira_od_podstaw_-_zarzadzanie_projektami.html">Kurs JIRA od podstaw - zarządzanie projektami</a>
+  </span></li> <br/>
     
     
 <h2>Webinars/Meetings</h2>
