@@ -35,12 +35,118 @@ I'm focusing on develop documentation, testing scenarios, bug reports creating a
 <li>
   <span style><b>
       <a href="https://www.atlassian.com/pl/software/jira">JIRA,</a> 
-      <a href="https://marketplace.atlassian.com/apps/1211480/qtest-for-jira-test-management?hosting=cloud&tab=overview">qTest</a>
+      <a href="http://testlink.org/">TestLink</a>
     </b> - Software development tools for project management
   </span></li> <br/>
+  
+<li>
+  <span style><b>
+    <a href="https://screencast-o-matic.com/">Screencast-O-Matic,</a>
+    <a href="https://www.techsmith.com/jing-tool.html">Jing</a>
+    </b> - screen capture tools (photo and video)
+  </span></li> <br/>
+  
+<li>
+  <span style><b>
+    <a href="https://www.charlesproxy.com/">Charles Web Debugging Proxy</a>
+    </b> - Software to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet  
+  </span></li> <br/>
+  
+<li>
+  <span style><b>
+    <a href="https://github.com/">Github</a>
+    </b>
+  </span></li> <br/>
+  
+  
+<h2>Courses</h2>
 
-Screencast, Jing - screen capture tools (photo and video)  <br/>
-Charles Web Debugging Proxy - Software to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet  <br/>
-Github  <br/>
+<li>
+  <span style>
+    <a href="https://miroslawzelent.pl/kurs-mysql/">Kurs MySQL. Bazy Danych, język zapytań SQL</a>
+  </span></li> <br/>
+  
+<li>
+  <span style>
+    <a href="https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/">The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert - in progress...</a>
+      </span></li> <br/>
+  
+<li>
+  <span style>
+    <a href="https://www.udemy.com/course/kurs-git-i-github-od-podstaw/">Wprowadzenie do Git i Github</a>
+      </span></li> <br/>
+  
+<li>
+  <span style>
+    <a href="https://strefakursow.pl/kursy/programowanie/kurs_jira_od_podstaw_-_zarzadzanie_projektami.html">Kurs JIRA od podstaw - zarządzanie projektami</a>
+    
+<h2>Webinars/Meetings</h2>
+
+<li>
+  <span style>
+    <a href="https://www.facebook.com/events/383192025682843/">Tester oprogramowania - taki detektyw ale nie do końca 10latWiT</a>
+  </span></li> <br/>
+  
+  
+<h2>Books</h2>
+
+<li>
+  <span style>
+    <a href="https://www.empik.com/zawod-tester-od-decyzji-do-zdobycia-doswiadczenia-smilgin-radoslaw,p1214300025,ksiazka-p?gclid=CjwKCAiAv4n9BRA9EiwA30WND5124T4eyVMj8WKobfZOVK5PPpdzLBihwOtSm8G8k0PiSBmpa4EafhoChEcQAvD_BwE&gclsrc=aw.ds">Zawód Tester - R. Smilgin</a>
+  </span></li> <br/>
+  
+<li>
+  <span style>
+    <a href="https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispp.htm#format/d">Certyfikowany Tester ISTQB - A. Roman, L. Stapp - in progress...</a>
+  </span></li> <br/>
+  
+ <li>
+  <span style>
+    <a href="https://www.funwithbugs.com/store/">Podróż przez świat testowania - K. Pawłowska, N. Pawlak - in progress...</a>
+  </span></li> <br/>
+  
+  
+ <h2>Facebook groups/Websites</h2>
+ 
+ <li>
+  <span style>
+    <a href="https://www.facebook.com/groups/TestowanieOprogramowania/">Testowanie Oprogramowania</a>
+  </span></li> <br/>
+  
+ <li>
+  <span style>
+    <a href="https://www.facebook.com/groups/testeroprogramowania/">Tester oprogramowania - wsparcie na starcie</a>
+  </span></li> <br/>
+  
+ <li>
+  <span style>
+    <a href="https://www.facebook.com/ggcarrots">Geek Girls Carrots</a>
+  </span></li> <br/>
+  
+ <li>
+  <span style>
+    <a href="https://www.flynerd.pl">FlyNerd.pl - blog o programowaniu</a>
+  </span></li> <br/>
+  
+ <li>
+  <span style>
+    <a href="https://www.guru99.com">Guru99</a>
+  </span></li> <br/>
+  
+ <li>
+  <span style>
+    <a href="https://testerzy.pl">testerzy.pl</a>
+  </span></li> <br/>
+  
+ <li>
+  <span style>
+    <a href="https://www.toniebug.pl">To nie bug</a>
+  </span></li> <br/>
+  
+ 
+  
+  
+  
+
 
 
