@@ -59,6 +59,16 @@ I'm focusing on develop documentation, testing scenarios, bug reports creating a
   </span></li> <br/>
   
   
+ <h2>My Projects</h2>
+ 
+ <li>
+  <span style><b>Individual Projects</b>
+         <li><span style>Exploratory Test of the Website abastra.com</span></li>
+                    <li><span style><b><a href="https://docs.google.com/spreadsheets/d/1gqdE1EaQb1KXTxgxoXOB8zVkxpBjjpiP/edit#gid=1276846784">Test Scenario</b></a></li>
+                    <li><span style><b><a href="https://docs.google.com/spreadsheets/d/1YWj-KOR7EMsu_wu0CHcVDrqelyumL9hG/edit#gid=895458969">Test Case</b></a></li>
+                    <li><span style><b><a href="https://docs.google.com/spreadsheets/d/1FOTvcLlw0_kdAW1215SDQaTSYXVjhULc/edit#gid=374608489">Bug Report</b></a></li>
+                
+  
 <h2>Courses</h2>
 
 <li>
@@ -68,7 +78,7 @@ I'm focusing on develop documentation, testing scenarios, bug reports creating a
   
 <li>
   <span style>
-    <a href="https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/">The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert - in progress...</a>
+    <a href="https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/">The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert</a> - in progress...
       </span></li> <br/>
   
 <li>
@@ -79,6 +89,7 @@ I'm focusing on develop documentation, testing scenarios, bug reports creating a
 <li>
   <span style>
     <a href="https://strefakursow.pl/kursy/programowanie/kurs_jira_od_podstaw_-_zarzadzanie_projektami.html">Kurs JIRA od podstaw - zarządzanie projektami</a>
+    
     
 <h2>Webinars/Meetings</h2>
 
@@ -92,17 +103,17 @@ I'm focusing on develop documentation, testing scenarios, bug reports creating a
 
 <li>
   <span style>
-    <a href="https://www.empik.com/zawod-tester-od-decyzji-do-zdobycia-doswiadczenia-smilgin-radoslaw,p1214300025,ksiazka-p?gclid=CjwKCAiAv4n9BRA9EiwA30WND5124T4eyVMj8WKobfZOVK5PPpdzLBihwOtSm8G8k0PiSBmpa4EafhoChEcQAvD_BwE&gclsrc=aw.ds">Zawód Tester - R. Smilgin</a>
+    <a href="https://www.empik.com/zawod-tester-od-decyzji-do-zdobycia-doswiadczenia-smilgin-radoslaw,p1214300025,ksiazka-p?gclid=CjwKCAiAv4n9BRA9EiwA30WND5124T4eyVMj8WKobfZOVK5PPpdzLBihwOtSm8G8k0PiSBmpa4EafhoChEcQAvD_BwE&gclsrc=aw.ds">Zawód Tester</a> - R. Smilgin
   </span></li> <br/>
   
 <li>
   <span style>
-    <a href="https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispp.htm#format/d">Certyfikowany Tester ISTQB - A. Roman, L. Stapp - in progress...</a>
+    <a href="https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispp.htm#format/d">Certyfikowany Tester ISTQB</a> - A. Roman, L. Stapp - in progress...
   </span></li> <br/>
   
  <li>
   <span style>
-    <a href="https://www.funwithbugs.com/store/">Podróż przez świat testowania - K. Pawłowska, N. Pawlak - in progress...</a>
+    <a href="https://www.funwithbugs.com/store/">Podróż przez świat testowania</a> - K. Pawłowska, N. Pawlak - in progress...
   </span></li> <br/>
   
   
