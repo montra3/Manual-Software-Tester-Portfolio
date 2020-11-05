@@ -1,4 +1,4 @@
-# Tester-manualny-podsumowanie
+# Tester-Manualny-Portfolio
 
 <header>
 <h2>About me</h2>
@@ -72,6 +72,23 @@ I'm focusing on develop documentation, testing scenarios, bug reports creating a
              <li><span style><b><a href="https://docs.google.com/spreadsheets/d/1FOTvcLlw0_kdAW1215SDQaTSYXVjhULc/edit#gid=374608489">Bug Report</b></a></span>
                </li> <br/>
              </ul> 
+             
+<h2>Proffesional Experience</h2>
+
+<li>
+  <b><a href="https://join.digivante.com/as-functional-tester">BugFinders</a> - Crowdtesting Platform</b> <br/>
+    <li><span style>Exploratory Testing</span></li> <br/>
+    <li><span style>Functional Testing</span></li> <br/>
+    <li><span style>Test Cases Completing</span></li> <br/>
+    <li><span style>Bug Reports Preparing</span></li> <br/>
+    <li><b><span style>Commercial Projects:</b> IntelyCare, Cotswold, RushPlace (Entry Test)</span></li> <br/>
+  <b><a href="https://www.utest.com">uTest</a> - Crowdtesting Platform</b> <br/>
+    <li><span style>Exploratory Testing</span></li> <br/>
+    <li><span style>Functional Testing</span></li> <br/>
+    <li><span style>Test Cases Completing</span></li> <br/>
+    <li><span style>Bug Reports Preparing</span></li> <br/>
+    <li><span style>Charles Proxy Logs collecting</span></li> <br/>
+    <li><b><span style>Commercial Projects:</b> OLX, NetoMedia, Chick-fil-a (Entry Test)</span></li> <br/>
                                 
 <h2>Courses</h2>
 
@@ -93,6 +110,11 @@ I'm focusing on develop documentation, testing scenarios, bug reports creating a
 <li>
   <span style>
     <a href="https://strefakursow.pl/kursy/programowanie/kurs_jira_od_podstaw_-_zarzadzanie_projektami.html">Kurs JIRA od podstaw - zarządzanie projektami</a>
+  </span></li> <br/>
+  
+<li>
+  <span style>
+    uTest/Applause Academy - Introducing course for new users who want participate in paid projects
   </span></li> <br/>
     
     
