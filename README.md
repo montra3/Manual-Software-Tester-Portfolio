@@ -87,7 +87,8 @@ I'm focusing on develop documentation, testing scenarios, bug reports creating a
   </span></li> <br/>
     <li><span style><b>Commercial Projects:</b> IntelyCare, Cotswold, RushPlace (Entry Test)
   </span></li> <br/>
-<a href="https://www.utest.com"><b>uTest</a> - Crowdtesting Platform</b> <br/>
+<b><a href="https://www.utest.com">uTest</a> - Crowdtesting Platform
+  </b> <br/>
     <li><span style>Exploratory Testing
   </span></li> <br/>
     <li><span style>Functional Testing
