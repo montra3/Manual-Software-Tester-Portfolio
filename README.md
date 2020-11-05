@@ -1,4 +1,4 @@
-# Tester-Manualny-Portfolio
+# Manual Software Tester Portfolio
 
 <header>
 <h2>About me</h2>
