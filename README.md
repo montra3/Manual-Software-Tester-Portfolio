@@ -75,20 +75,31 @@ I'm focusing on develop documentation, testing scenarios, bug reports creating a
              
 <h2>Proffesional Experience</h2>
 
-<li>
-  <b><a href="https://join.digivante.com/as-functional-tester">BugFinders</a> - Crowdtesting Platform</b> <br/>
-    <li><span style>Exploratory Testing</span></li> <br/>
-    <li><span style>Functional Testing</span></li> <br/>
-    <li><span style>Test Cases Completing</span></li> <br/>
-    <li><span style>Bug Reports Preparing</span></li> <br/>
-    <li><b><span style>Commercial Projects:</b> IntelyCare, Cotswold, RushPlace (Entry Test)</span></li> <br/>
-  <b><a href="https://www.utest.com">uTest</a> - Crowdtesting Platform</b> <br/>
-    <li><span style>Exploratory Testing</span></li> <br/>
-    <li><span style>Functional Testing</span></li> <br/>
-    <li><span style>Test Cases Completing</span></li> <br/>
-    <li><span style>Bug Reports Preparing</span></li> <br/>
-    <li><span style>Charles Proxy Logs collecting</span></li> <br/>
-    <li><b><span style>Commercial Projects:</b> OLX, NetoMedia, Chick-fil-a (Entry Test)</span></li> <br/>
+<b><a href="https://join.digivante.com/as-functional-tester">BugFinders</a> - Crowdtesting Platform
+</b> <br/>
+    <li><span style>Exploratory Testing
+  </span></li> <br/>
+    <li><span style>Functional Testing
+  </span></li> <br/>
+    <li><span style>Test Cases Completing
+  </span></li> <br/>
+    <li><span style>Bug Reports Preparing
+  </span></li> <br/>
+    <li><span style><b>Commercial Projects:</b> IntelyCare, Cotswold, RushPlace (Entry Test)
+  </span></li> <br/>
+<a href="https://www.utest.com"><b>uTest</a> - Crowdtesting Platform</b> <br/>
+    <li><span style>Exploratory Testing
+  </span></li> <br/>
+    <li><span style>Functional Testing
+  </span></li> <br/>
+    <li><span style>Test Cases Completing
+  </span></li> <br/>
+    <li><span style>Bug Reports Preparing
+  </span></li> <br/>
+    <li><span style>Charles Proxy Logs collecting
+  </span></li> <br/>
+    <li><b><span style>Commercial Projects:</b> OLX, NetoMedia, Chick-fil-a (Entry Test)
+  </span></li> <br/>
                                 
 <h2>Courses</h2>
 
