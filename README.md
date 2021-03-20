@@ -54,6 +54,24 @@ I'm focusing on develop documentation, testing scenarios, bug reports creating a
   
 <li>
   <span style><b>
+    <a href="https://www.vysor.io">Vysor</a>
+    </b> - Tool for mirror and control Android devices on your desktop
+  </span></li> <br/>
+  
+<li>
+  <span style><b>
+    <a href="https://fbflipper.com">Flipper</a> or <a href="https://developer.android.com/studio">Android Studio</a>
+    </b> - I use these tools for log collecting from mobile devices
+  </span></li> <br/>
+  
+<li>
+  <span style><b>
+    <a href="https://www.browserstack.com">Browserstack</a>
+    </b> - Give your users a seamless experience by testing on 2000+ real devices and browsers.
+  </span></li> <br/>
+  
+  <li>
+  <span style><b>
     <a href="https://github.com/">Github</a>
     </b>
   </span></li> <br/>
@@ -74,6 +92,27 @@ I'm focusing on develop documentation, testing scenarios, bug reports creating a
              </ul> 
              
 <h2>Proffesional Experience</h2>
+
+<b>Web and Mobile Software Tester - 11.2020 - present</b>
+<a href="https://abastra.com">Abastra</a> - Lodz
+
+<b>Responsibilities</b> <br/>
+    <li><span style>Test plans, test scenarios, test cases writing
+  </span></li> <br/>
+    <li><span style>Functional and non-functional Testing
+  </span></li> <br/>
+    <li><span style>Test plans implementation
+  </span></li> <br/>
+    <li><span style>Bug reports preparation
+  </span></li> <br/>
+    <li><span style>Web Application testing - Windows/MacOS desktop
+  </span></li> <br/>
+    <li><span style>Mobile Application testing - Android/iOS
+  </span></li> <br/>
+    <li><span style>Close cooperation with client and programmers
+  </span></li> <br/>
+    <li><span style>Application requirements collecting and documentation preparing
+  </span></li> <br/>
 
 <b><a href="https://join.digivante.com/as-functional-tester">BugFinders</a> - Crowdtesting Platform
 </b> <br/>
@@ -139,6 +178,21 @@ I'm focusing on develop documentation, testing scenarios, bug reports creating a
     <a href="https://www.facebook.com/events/383192025682843/">Tester oprogramowania - taki detektyw ale nie do końca 10latWiT</a>
   </span></li> <br/>
   
+<li>
+  <span style>
+    <a href="https://www.youtube.com/watch?v=Rp5RIJc9DQA">Testowanie aplikacji mobilnych - webinar Od laika do automatyka</a>
+  </span></li> <br/>
+  
+<li>
+  <span style>
+    <a href="https://www.youtube.com/watch?v=8HT8w9bDgwE&t=1240s">Bazy danych w pracy testera - webinar Od laika do automatyka</a>
+  </span></li> <br/>
+  
+<li>
+  <span style>
+    <a href="https://www.facebook.com/events/220019236510807">Ścieżki rozwoju testera w Accenture - webinar Accenture, Mamo Pracuj</a>
+  </span></li> <br/>
+  
   
 <h2>Books</h2>
 
@@ -195,6 +249,42 @@ I'm focusing on develop documentation, testing scenarios, bug reports creating a
     <a href="https://www.toniebug.pl">To nie bug</a>
   </span></li> <br/>
   
+ <h2>Youtube Channels</h2>
+ 
+ <li>
+  <span style>
+    <a href="https://www.youtube.com/channel/UCYqcfmMkp3RjDrXqiuqF1bw">Rusz Kodem</a>
+  </span></li> <br/>
+  
+  <li>
+  <span style>
+    <a href="https://www.youtube.com/channel/UCrl6b8MxVxuW06Jba0XYZSg">TestITka - testowanie na żywo</a>
+  </span></li> <br/>
+  
+  <li>
+  <span style>
+    <a href="https://www.youtube.com/channel/UCiiRmy6BsGPO-eGiUClAsgA">ITea Morning - Testing and coding news</a>
+  </span></li> <br/>
+  
+  <li>
+  <span style>
+    <a href="https://www.youtube.com/channel/UCb4yMKYzaO-jYGeFSvMuHJQ">Tester Programuje</a>
+  </span></li> <br/>
+  
+  <li>
+  <span style>
+    <a href="https://www.youtube.com/channel/UCYuBG8Q0Bcl7GHisAlAgYCQ">Od Laika do Automatyka - Tomasz Stelmach</a>
+  </span></li> <br/>
+  
+  <li>
+  <span style>
+    <a href="https://www.youtube.com/channel/UCzn6vAfspIcagLax1fck_jw">Pasja Informatyki</a>
+  </span></li> <br/>
+  
+  <li>
+  <span style>
+    <a href="https://www.youtube.com/channel/UCZrYvj9qHBh6jv6Wz6RdmnA">Jaktestować pl</a>
+  </span></li> <br/>
  
   
   
