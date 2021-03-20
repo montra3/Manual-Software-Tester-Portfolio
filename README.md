@@ -93,10 +93,10 @@ I'm focusing on develop documentation, testing scenarios, bug reports creating a
              
 <h2>Proffesional Experience</h2>
 
-<b>Web and Mobile Software Tester - 11.2020 - present</b>
-<a href="https://abastra.com">Abastra</a> - Lodz
+<b><a href="https://abastra.com">Abastra (Lodz)</a> - Web and Mobile Software Tester - 11.2020 - present
+</b> <br/>
 
-<b>Responsibilities</b> <br/>
+<b>Responsibilities:</b> <br/>
     <li><span style>Test plans, test scenarios, test cases writing
   </span></li> <br/>
     <li><span style>Functional and non-functional Testing
@@ -180,17 +180,17 @@ I'm focusing on develop documentation, testing scenarios, bug reports creating a
   
 <li>
   <span style>
-    <a href="https://www.youtube.com/watch?v=Rp5RIJc9DQA">Testowanie aplikacji mobilnych - webinar Od laika do automatyka</a>
+    <a href="https://www.youtube.com/watch?v=Rp5RIJc9DQA">Testowanie aplikacji mobilnych</a> - webinar Od laika do automatyka
   </span></li> <br/>
   
 <li>
   <span style>
-    <a href="https://www.youtube.com/watch?v=8HT8w9bDgwE&t=1240s">Bazy danych w pracy testera - webinar Od laika do automatyka</a>
+    <a href="https://www.youtube.com/watch?v=8HT8w9bDgwE&t=1240s">Bazy danych w pracy testera</a> - webinar Od laika do automatyka
   </span></li> <br/>
   
 <li>
   <span style>
-    <a href="https://www.facebook.com/events/220019236510807">Ścieżki rozwoju testera w Accenture - webinar Accenture, Mamo Pracuj</a>
+    <a href="https://www.facebook.com/events/220019236510807">Ścieżki rozwoju testera w Accenture</a> - webinar Accenture, Mamo Pracuj
   </span></li> <br/>
   
   
@@ -231,7 +231,7 @@ I'm focusing on develop documentation, testing scenarios, bug reports creating a
   
  <li>
   <span style>
-    <a href="https://www.flynerd.pl">FlyNerd.pl - blog o programowaniu</a>
+    <a href="https://www.flynerd.pl">FlyNerd.pl</a> - blog o programowaniu
   </span></li> <br/>
   
  <li>
@@ -258,12 +258,12 @@ I'm focusing on develop documentation, testing scenarios, bug reports creating a
   
   <li>
   <span style>
-    <a href="https://www.youtube.com/channel/UCrl6b8MxVxuW06Jba0XYZSg">TestITka - testowanie na żywo</a>
+    <a href="https://www.youtube.com/channel/UCrl6b8MxVxuW06Jba0XYZSg">TestITka</a> - testowanie na żywo
   </span></li> <br/>
   
   <li>
   <span style>
-    <a href="https://www.youtube.com/channel/UCiiRmy6BsGPO-eGiUClAsgA">ITea Morning - Testing and coding news</a>
+    <a href="https://www.youtube.com/channel/UCiiRmy6BsGPO-eGiUClAsgA">ITea Morning</a> - Testing and coding news
   </span></li> <br/>
   
   <li>
@@ -273,7 +273,7 @@ I'm focusing on develop documentation, testing scenarios, bug reports creating a
   
   <li>
   <span style>
-    <a href="https://www.youtube.com/channel/UCYuBG8Q0Bcl7GHisAlAgYCQ">Od Laika do Automatyka - Tomasz Stelmach</a>
+    <a href="https://www.youtube.com/channel/UCYuBG8Q0Bcl7GHisAlAgYCQ">Od Laika do Automatyka</a> - Tomasz Stelmach
   </span></li> <br/>
   
   <li>
