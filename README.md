@@ -6,27 +6,89 @@
 
 
 I have been testing apps since 2020. I got to know the tester profession thanks to Woman in Technology society. The next step to improve my skills was join to groups for testers on Facebook, blog reading, youtube channels watching, and creating profiles in crowdtesting platforms like uTest or BugFinders.Currently, from November 2020 I'm working as a Web and Mobile Software Tester in a small company in Lodz. I'm working on different projects. I do exploratory tests and activities associated with maintaining (determine which area of the app doesn't work and prepare reproduction steps for developers). I do also manual, functional, and non-functional tests during new function implementation in-app. I'm testing on desktop and mobile devices in Windows, macOS platforms and Android, iOS software. I'm also normally using Browserstack. I'm taking part in meetings with clients where I collect software requirements and I'm working on and updating documentation. All information I submit to the software developers.Now I'm preparing for the ISTQB FL certificate. In the future, I want to develop into an automation tester but actually, I want to get solid basics as a manual tester.I would like to join the inspiring and full of vigour team where I'll have the possibility to learn good practice from more experienced testers. 
+  
+<h2>Proffesional Experience</h2>
+
+<b><a href="https://abastra.com">Abastra (Lodz)</a> - Web and Mobile Software Tester - 11.2020 - present
+</b> <br/>
+
+<b>Responsibilities:</b> <br/>
+    <li><span style>Test plans, test scenarios, test cases writing
+  </span></li> <br/>
+    <li><span style>Functional, non-functional, integration, Manual Testing
+  </span></li> <br/>
+  <li><span style>Website testing right from the start of the project as the only one tester. Application requirements collecting from the client, transmission of information to the programmers, creating tasks with collected requirements on the JIRA or Notion.
+  </span></li> <br/>
+    <li><span style>Test plans creating and execution
+  </span></li> <br/>
+    <li><span style>Bug reports preparation
+  </span></li> <br/>
+    <li><span style>Web Application testing - Windows/MacOS desktop
+  </span></li> <br/>
+    <li><span style>Mobile Application testing - Android/iOS
+  </span></li> <br/>
+    <li><span style>Close cooperation with client and programmers
+  </span></li> <br/>
+    <li><span style>Application requirements collecting and documentation preparing
+  </span></li> <br/>
+
+<b><a href="https://join.digivante.com/as-functional-tester">BugFinders</a> - Crowdtesting Platform
+</b> <br/>
+    <li><span style>Exploratory Testing
+  </span></li> <br/>
+    <li><span style>Functional Testing
+  </span></li> <br/>
+    <li><span style>Test Cases execution
+  </span></li> <br/>
+    <li><span style>Bug Reports Preparing
+  </span></li> <br/>
+    <li><span style><b>Commercial Projects:</b> IntelyCare, Cotswold, RushPlace (Entry Test)
+  </span></li> <br/>
+  
+<b><a href="https://www.utest.com">uTest</a> - Crowdtesting Platform
+  </b> 
+  <br/>
+    <li><span style>Exploratory Testing
+  </span></li> <br/>
+    <li><span style>Functional Testing
+  </span></li> <br/>
+    <li><span style>Test Cases Completing
+  </span></li> <br/>
+    <li><span style>Bug Reports Preparing
+  </span></li> <br/>
+    <li><span style>Charles Proxy Logs collecting
+  </span></li> <br/>
+    <li><b><span style>Commercial Projects:</b> OLX, NetoMedia, Chick-fil-a (Entry Test)
+  </span></li> <br/>
 
 
 <h2>Tech skills</h2>
 
-<li><span style>MySQL
+<li><span style>JIRA
+  </span></li> <br/>
+  
+ <li><span style>Redmine
+  </span></li> <br/>
+  
+ <li><span style>Browserstack
+  </span></li> <br/>
+  
+ <li><span style>ISTQB - in progress...
+  </span></li> <br/>
+  
+ <li><span style>Postman + JAVA - in progress...
+  </span></li> <br/>
+
+<li><span style>Creating Test plans
   </span></li> <br/>
 
 <li><span style>Creating Test scenarios
   </span></li> <br/>
 
-<li><span style>Creating Test cases
+<li><span style>Creating Bug reports
   </span></li> <br/>
 
-<li><span style>Creating Test reports
-  </span></li> <br/>
 
-<li><span style>Creating Bug report
-  </span></li> <br/>
-
-<li><span style>ISTQB - in progress...
-  </span></li> <br/>
 
 
 <h2>Tools</h2>
@@ -89,70 +151,19 @@ I have been testing apps since 2020. I got to know the tester profession thanks 
              <li><span style><b><a href="https://docs.google.com/spreadsheets/d/1FOTvcLlw0_kdAW1215SDQaTSYXVjhULc/edit#gid=374608489">Bug Report</b></a></span>
                </li> <br/>
              </ul> 
-             
-<h2>Proffesional Experience</h2>
-
-<b><a href="https://abastra.com">Abastra (Lodz)</a> - Web and Mobile Software Tester - 11.2020 - present
-</b> <br/>
-
-<b>Responsibilities:</b> <br/>
-    <li><span style>Test plans, test scenarios, test cases writing
-  </span></li> <br/>
-    <li><span style>Functional and non-functional Testing
-  </span></li> <br/>
-    <li><span style>Test plans implementation
-  </span></li> <br/>
-    <li><span style>Bug reports preparation
-  </span></li> <br/>
-    <li><span style>Web Application testing - Windows/MacOS desktop
-  </span></li> <br/>
-    <li><span style>Mobile Application testing - Android/iOS
-  </span></li> <br/>
-    <li><span style>Close cooperation with client and programmers
-  </span></li> <br/>
-    <li><span style>Application requirements collecting and documentation preparing
-  </span></li> <br/>
-
-<b><a href="https://join.digivante.com/as-functional-tester">BugFinders</a> - Crowdtesting Platform
-</b> <br/>
-    <li><span style>Exploratory Testing
-  </span></li> <br/>
-    <li><span style>Functional Testing
-  </span></li> <br/>
-    <li><span style>Test Cases Completing
-  </span></li> <br/>
-    <li><span style>Bug Reports Preparing
-  </span></li> <br/>
-    <li><span style><b>Commercial Projects:</b> IntelyCare, Cotswold, RushPlace (Entry Test)
-  </span></li> <br/>
-  
-<b><a href="https://www.utest.com">uTest</a> - Crowdtesting Platform
-  </b> 
-  <br/>
-    <li><span style>Exploratory Testing
-  </span></li> <br/>
-    <li><span style>Functional Testing
-  </span></li> <br/>
-    <li><span style>Test Cases Completing
-  </span></li> <br/>
-    <li><span style>Bug Reports Preparing
-  </span></li> <br/>
-    <li><span style>Charles Proxy Logs collecting
-  </span></li> <br/>
-    <li><b><span style>Commercial Projects:</b> OLX, NetoMedia, Chick-fil-a (Entry Test)
-  </span></li> <br/>
+      
                                 
 <h2>Courses</h2>
+  
+<li>
+  <span style>
+    <a href="https://testowaniebackendu.pl">Szkoła Testowania Backendu - Bartosz Kita - Postman, Jenkins, JAVA + RestAssured</a>
+  </span></li> <br/>
 
 <li>
   <span style>
     <a href="https://miroslawzelent.pl/kurs-mysql/">Kurs MySQL. Bazy Danych, język zapytań SQL</a>
   </span></li> <br/>
-  
-<li>
-  <span style>
-    <a href="https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/">The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert</a> - in progress...
-      </span></li> <br/>
   
 <li>
   <span style>
