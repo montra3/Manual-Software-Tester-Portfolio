@@ -153,7 +153,7 @@ I have been testing apps since 2020. I got to know the tester profession thanks 
                </li> <br/>
              </ul> 
   
-    <b>Exploratory Tests of the Allegro registration form
+  <b>Exploratory Tests of the Allegro registration form
   </b> 
   <br/>
         <ul>
