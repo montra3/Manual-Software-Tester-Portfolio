@@ -31,6 +31,7 @@ I have been testing apps since 2020. I got to know the tester profession thanks 
   </span></li> <br/>
     <li><span style>Application requirements collecting and documentation preparing
   </span></li> <br/>
+  
 
 <b><a href="https://join.digivante.com/as-functional-tester">BugFinders</a> - Crowdtesting Platform
 </b> <br/>
@@ -140,7 +141,7 @@ I have been testing apps since 2020. I got to know the tester profession thanks 
   
  <h2>My Individual Projects</h2>
  
-  <b>Exploratory Test of the Website abastra.com
+  <b>Exploratory Tests of the Website abastra.com
   </b> 
   <br/>
         <ul>
@@ -151,7 +152,17 @@ I have been testing apps since 2020. I got to know the tester profession thanks 
              <li><span style><b><a href="https://docs.google.com/spreadsheets/d/1FOTvcLlw0_kdAW1215SDQaTSYXVjhULc/edit#gid=374608489">Bug Report</b></a></span>
                </li> <br/>
              </ul> 
+  
+    <b>Exploratory Tests of the Allegro registration form
+  </b> 
+  <br/>
+        <ul>
+             <li><span style><b><a href="https://docs.google.com/spreadsheets/d/1XfSe9ts-XPIpiwMDMqj_qHodc0t5myZtoyyHXGtvQYs/edit?usp=sharing">Test Plan and Test scenarios</b></a>
+               </li> <br/>
+            <li><span style><b><a href="https://docs.google.com/spreadsheets/d/1W3KjL_8bB6X7dx2m_gu3_qo_VLLbWo3wQz-V2YLlieY/edit?usp=sharing">Bug report</b></a>
+               </li> <br/>
       
+ 
                                 
 <h2>Courses</h2>
   
